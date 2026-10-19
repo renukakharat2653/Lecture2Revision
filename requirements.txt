@@ -1,0 +1,9 @@
+
+Flask
+transformers
+torch
+sentencepiece
+pypdf
+numpy
+scikit-learn
+openai-whisper

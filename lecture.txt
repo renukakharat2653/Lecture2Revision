@@ -1,0 +1,40 @@
+COMPUTER NETWORKS - LECTURE NOTES
+
+A computer network is a group of connected devices that share data and resources.
+
+Types of Networks:
+LAN covers a small area such as a college laboratory. MAN covers a city. WAN covers a large geographical area. The Internet is a large WAN.
+
+Network Topology:
+Star topology connects devices to a central switch. Bus topology uses one main cable. Ring topology connects devices in a circle. Mesh topology provides multiple connections.
+
+OSI Model:
+The seven layers are Physical, Data Link, Network, Transport, Session, Presentation, and Application. Each layer performs a different task in network communication.
+
+TCP/IP Model:
+The four commonly described layers are Link, Internet, Transport, and Application.
+
+IP Address:
+An IP address identifies a device on an IP network. IPv4 uses 32 bits. IPv6 uses 128 bits.
+
+Network Devices:
+A switch connects devices in a local network and forwards frames using MAC addresses. A router connects different networks and forwards packets using IP addresses. A hub sends incoming data to all its ports.
+
+TCP and UDP:
+TCP provides reliable and ordered data delivery. UDP has lower overhead but does not guarantee delivery or order.
+
+DNS, HTTP, and HTTPS:
+DNS translates domain names into IP addresses. HTTP transfers web content. HTTPS protects web communication using encryption with TLS.
+
+Network Security:
+Firewalls filter network traffic. Encryption protects data. Strong passwords, software updates, and multi-factor authentication improve security.
+
+Practice Questions:
+1. What is a computer network?
+2. Explain LAN, MAN, and WAN.
+3. List the seven OSI layers.
+4. What is the difference between TCP and UDP?
+5. What is the purpose of DNS?
+6. Differentiate between a switch and a router.
+7. What is HTTPS?
+8. Explain three methods of network security.
